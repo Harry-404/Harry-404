@@ -45,7 +45,7 @@ From excelling in academics to leading and representing communities, my experien
 - **Awards & Honors:**  
   - Verbal Commendation in IMUN Vietnam 2024
   - Verbal Commendation in IMUN Indonesia 2024  
-  - Participant at the world’s largest AI Summit (among 0.02% of humanity to witness the AI revolution live)
+  - Participant at the world’s largest AI Summit (among 0.002% of humanity to witness the AI revolution live)
 
 ---
 
