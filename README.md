@@ -16,6 +16,9 @@ I am a recent graduate from Maharashtra Institute of Technology, Chhatrapati Sam
 - **Machine Learning**
 - **Data Science**
 - **Data Analysis**
+- **Context Engineering**
+- **AWS**
+- 
 
 ---
 
@@ -41,12 +44,13 @@ From excelling in academics to leading and representing communities, my experien
   - Interned at SSPL, DRDO  
   - Two-time IPR holder
 - **Awards & Honors:**  
-  - Best Graduate Awardee  
+  - Verbal Commendation in IMUN Vietnam 2024
+  - Verbal Commendation in IMUN Indonesia 2024  
   - Participant at the world’s largest AI Summit (among 0.02% of humanity to witness the AI revolution live)
 
 ---
 
-> **I’m not just building a profile — I’m building a story worth remembering. And that’s exactly why I deserve this chance.**
+> **I’m not just building a profile — I’m building a story worth remembering.**
 
 ---
 
