@@ -18,7 +18,6 @@ I am a recent graduate from Maharashtra Institute of Technology, Chhatrapati Sam
 - **Data Analysis**
 - **Context Engineering**
 - **AWS**
-- 
 
 ---
 
